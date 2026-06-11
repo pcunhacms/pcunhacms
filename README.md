@@ -11,7 +11,7 @@
 
 ### 💻 Um pouco sobre mim...
 
-Sou **Analista de Dados** e atualmente estou me especializando em **Engenharia de Dados**.  
+Sou **Analista de Dados** e **Desenvolvedor de Software**.  
 Tenho grande interesse em arquitetura de dados, pipelines, automação de processos e soluções orientadas a dados.
 
 Busco evoluir constantemente em tecnologias voltadas para:
