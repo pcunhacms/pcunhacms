@@ -46,14 +46,13 @@ Também gosto de transformar dados em informações úteis para tomada de decis�
 
 ## 📊 Atualmente estudando
 
-- Python para Engenharia de Dados
+- Nest.js
 - APIs e automação
-- Modelagem dimensional
-- Data Warehousing
+- Arquitetura de Software
+- Autenticação
 - Pipelines de Dados
 - Cloud Computing
 - Docker e Containers
-- Bancos NoSQL
 
 ---
 
