@@ -11,17 +11,15 @@
 
 ### 💻 Um pouco sobre mim...
 
-Sou **Analista de Dados** e **Desenvolvedor de Software**.  
+Sou **Desenvolvedor Full Stack**.  
 Tenho grande interesse em arquitetura de dados, pipelines, automação de processos e soluções orientadas a dados.
 
 Busco evoluir constantemente em tecnologias voltadas para:
-- Engenharia de Dados
-- Data Lake
-- Data Warehouse
-- Lakehouse
-- ETL/ELT
-- Cloud Computing
 - Desenvolvimento Backend
+- Desenvolvimento Frontend
+- RPA
+- ETL
+- BD Manager
 
 Também gosto de transformar dados em informações úteis para tomada de decisão através de dashboards e análises.
 
