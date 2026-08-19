@@ -46,7 +46,7 @@ Também gosto de transformar dados em informações úteis para tomada de decis�
 
 ## 📊 Atualmente estudando
 
-- Nest.js
+- Java
 - APIs e automação
 - Arquitetura de Software
 - Autenticação
